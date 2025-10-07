@@ -89,7 +89,9 @@ python -m main
 ---
 
 
+## 📄 Full Documentation
+You can view the detailed write-up here:
 
-
+👉 [View Google Doc](https://docs.google.com/document/d/1cTV7jIngy0Bt3gEKlmuNb4kNvFfmhQwNEEIjLSSkCV8/edit?usp=sharing)
 
 
