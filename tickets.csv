@@ -1,0 +1,386 @@
+Support_Ticket_Id,Agent ID,Created_Date,Closed_Date,total_resolution_time_hours,first_response_time_hours,agent_responses,customer_responses,ticket_category,Csat_Score,Csat_Reason,Body
+ts-1009,2772720705,9/9/2025,9/14/2025,0.50,0.50,1,1,Subscription - Cancel/Refund: Not needed,Good,"Very good, quickly solved thank you","Customer: Jun 10 05:11 
+bot language: en 
+
+chat transcript:BOT: I can only process refund requests for plans and print orders. 
+BOT: For other refund requests, I can refer you to our Support team. 
+BOT: What do you want to refund? 
+
+USER: Selected: 4️⃣ I'm not sure 
+
+BOT: Can you tell me more details about your refund request? I'll pass your answer to our Support team. 
+
+USER: Please refund my last month subscription I haven't used Widgets in over 2 months, I have cancelled my subscription thanks 
+
+SUMMARY: Please refund my last month subscription I haven't used Widgets in over 2 months, I have cancelled my subscription thanks. 
+
+Agent: Jun 10 05:41 
+Hello Customer, 
+
+Thanks for getting in touch with us. 
+
+We understand that you want a refund for the last month subscription. We'd be more than glad to provide you with the necessary information to address this. 
+
+We've confirmed that your Widgets account associated with [EMAIL ADDReSS] was charged GBP 12.99 for your monthly Widgets Pro subscription renewal. Your paid plan will renew automatically unless you cancel it before the current billing cycle ends. 
+
+As a goodwill gesture, we've refunded the charge in full and canceled your paid subscription to prevent any future charges. The processing time for your refund depends on your bank. It can take 10 to 20 business days to appear on your account. If you'd like to check the refund status, please reach out to your bank directly. 
+
+It's sad to see you go but we hope to welcome you back to Widgets in the future. If you need any additional assistance, please let us know. 
+
+All the best, 
+Agent"
+ts-1010,2772720705,9/16/2025,9/21/2025,7.25,1.03,2,2,Subscription - Cancel/Refund: Not needed,Good,,"Customer: Jun 16 21:54 
+Description: There is no ""more "" option when I follow your instructions for cancellation of Widgets Pro Trial. I have until 22 June but want to cancel now. Please advise 
+
+Agent: Jun 16 22:55 
+Hi Customer, 
+
+Thanks for reaching out to us and for using Widgets. 
+
+We understand that you want to cancel the subscription now but you're unable to no worries we're here to assist you. 
+
+After reviewing your account, we have verified that your subscription is in the trial period and will conclude on June 23, 2024. You can simply wait until the end date, and rest assured that you will not be charged again once it expires. 
+
+We hope we have fully addressed your concern. Don't hesitate to reach out if you have another issue, as we are committed to helping you. 
+
+Many thanks, 
+Agent 
+
+Customer: Jun 17 04:12 
+Many thanks ! Happy Fathers Day to whoever :) 
+
+Agent: Jun 17 05:08 
+Hi Customer, 
+
+You're welcome! It gives me great pleasure to assist you. I'm so glad I was able to address all of your concerns, and thank you so much for using Widgets. 
+
+I will be closing this ticket now. However, feel free to reach out to us anytime if we can help with anything else. 
+
+For future concerns, please visit our Help Center to submit your request through Report an issue with Widgets form. 
+
+Have a lovely day and keep safe! 
+
+Many thanks, 
+Agent
+"
+ts-1011,2772720705,9/22/2025,9/22/2025,0.45,0.45,1,1,Subscription - Cancel/Refund: Not needed,Bad,The issue was not resolved,"Customer: Jun 22 19:33 
+Description: I don't want to have Widgets pro as I rarely use it and I was thinking of unsubscribing from it. 
+I would like to be refunded. 
+Sincerely 
+Customer
+
+Agent: Jun 22 20:00 
+Hi Customer, 
+
+Thanks for reaching out. 
+
+We received a chargeback request for your PayPal payment amounting to EUR 110.00 for invoice [INVOICE ID].
+
+Your bank is currently reviewing this and we are unable to intervene with banking protocols on our end. 
+
+While the dispute is still under review, your Widgets Pro/Widgets for Teams will remain active. 
+
+For any questions or clarifications on the outcome of the dispute, you may reach out directly to your bank. 
+
+Thank you for your understanding! If you need further clarification or assistance, feel free to write back. 
+
+Best, 
+Agent
+"
+ts-1012,2982625928,9/23/2025,9/23/2025,0.52,0.52,1,1,Subscription - Cancel/Refund: Not needed,Good,,"Customer: Aug 16 17:53 
+Description: Hi. Please cancel my subscription and I'd like to demand a refund for this. Thank you. 
+
+Invoice/Transaction Id: [INVOICE NUMBER]
+
+Invoice Not Listed?: no 
+
+Refund Requested?: yes 
+
+Agent: Aug 16 18:24 
+Hi Customer, 
+
+Thank you for reaching out to Widgets. My name is Agent, it's a pleasure to be able to assist you with exceptional service today. 
+
+Widgets' priority is to guarantee the peace of mind of its users and provide a quality service. We're sorry to hear that you are having difficulties with the charge you received and we truly understand how important it is for you to revert the charge. Please be assured that we'll exhaust our resources to help. 
+
+We've confirmed that your Widgets account associated with [EMAIL ADDRESS] was charged PHP 300.00 for your monthly Widgets Pro subscription renewal. Your paid plan will renew automatically unless you cancel it before the current billing cycle ends. 
+
+As a goodwill gesture, we've refunded the charge in full and canceled your paid subscription to prevent any future charges. The processing time for your refund depends on your bank. It can take 10 to 20 business days to appear on your account. If you'd like to check the refund status, please reach out to your bank directly. 
+
+We hope we have fully addressed your concern. Should you require further guidance, feel free to reach out, and we will be readily available to offer our support. 
+
+Kind regards, 
+Agent
+"
+ts-1013,2982625928,5/16/2025,5/24/2025,0.16,0.16,1,1,Subscription - Cancel/Refund: Not needed,Good,,"Customer: May 16 19:51 
+Description: I cancelled my subscription the same day I paid for it. Please refund my money. My intentions was to do a monthly plan. Not a yearly. 
+
+Agent: May 16 20:01 
+Hello Customer, 
+
+Thank you for reaching us here in Widgets. We hope you are doing well. We completely understand that you're requesting a cancelation of the subscription and a refund for the charge you received. We want you to know that we are delighted with your satisfaction and committed to solving this matter as quickly and efficiently as possible. 
+
+We can confirm that your Widgets account under [EMAIL ADDRESS], received a charge amounting to USD 120.00 for your Widgets Pro annual subscription renewal. Your paid plan will continue to renew unless you cancel it before the current billing cycle ends. 
+
+We have issued a full refund to your account and canceled your paid subscription as a goodwill gesture. 
+
+Depending on your bank's internal protocols, you may expect this to reflect in your bank account within 10-20 business days. You may follow up with them for updates. 
+
+We’re happy to assist you in resubscribing your account to Widgets Pro. 
+
+To resubscribe, simply follow these easy steps: 
+Go to the homepage and click on the Try the Widgets Pro button found at the bottom of the side menu. 
+Select your preferred payment option from the drop-down menu. 
+Enter your payment details, depending on your selected option, and complete the upgrade process. 
+
+As a team owner or administrator, please note that each team member will incur a charge. 
+
+The upgrade will be charged right away. To ensure everything goes smoothly, please check that you have a payment method saved on your account and that your card details are current. 
+
+We hope this information is helpful. If you have any other questions or concerns, please don’t hesitate to ask. We’ll be more than happy to assist you! 
+
+Wishing you a wonderful day ahead! 
+
+Kind regards, 
+Agent"
+ts-1014,2982625928,7/14/2025,7/19/2025,0.47,0.47,1,2,Subscription - Cancel/Refund: Not needed,Good,,"Customer: Jul 14 21:56 
+bot language: fr 
+
+chat transcript:BOT: Hi, I'm Widgetsbot. 🤖 I understand that you want to cancel or suspend your Widgets Pro plan. 
+
+USER: Ask something else 
+
+BOT: Okay. Use 2-3 short sentences to describe what you need help with. 👇 
+
+USER: I wish to cancel the annual subscription that starts today and be reimbursed 
+
+BOT: I can only handle refund requests for plans and print orders. 
+BOT: For other refund requests, I can refer you to our support team. 
+BOT: What do you want to refund? 
+
+USER: Selected: 3️⃣ Other refund request 
+
+BOT: Can you give me more details about your refund request? I will forward your response to our support team. 
+
+USER: the free trial ended today and I am being billed 110eur for an annual subscription that I don't want 
+
+
+Customer: Jul 14 22:10 
+Hello, 
+
+The free trial stopped today and the annual payment has been done today as well, i m sure that i cancelled it a week ago, it seems that i did not go until the end of the process, i would like to be reimbursed for the total amount please. I already cancel the subscription. thank you for your understanding. 
+
+Kind regards 
+Customer
+
+Agent: Jul 14 22:24 
+Hi Customer, 
+
+Thank you for choosing Widgets and wishing you a great day! 
+
+Hello, I'm Agent one of the Customer Happiness Team here in Widgets. 
+
+I am here to provide the support and assistance you need. Your concerns and challenges are important to me, and I am fully committed to helping you out. 
+
+We understand that you have canceled the subscription but still got charged. We regret any inconvenience this may have caused. Rest assured that your satisfaction is our top priority here at Widgets. 
+
+We've confirmed that your Widgets account associated with [EMAIL ADDRESS] was charged EUR 110.00 for your yearly Widgets Pro subscription renewal. Please remember that your paid plan will renew automatically unless you cancel it before the current billing cycle ends. 
+
+As a valued customer, we've refunded the charge in full and canceled your paid subscription to prevent any future charges. The processing time for your refund depends on your bank. It can take 10 to 20 business days maximum. However, there is a higher chance to be credited earlier and appear on your account. If you'd like to check the refund status, please reach out to your bank directly. As much as I want to assist you in getting your bank’s toll-free number, I have less visibility on your banking institution's information. To assure you that the refund has been processed on Widgets' end, please see the attachment for the refund receipt. 
+
+It's sad to see you go but we hope to welcome you back to Widgets in the future. Know that your satisfaction is our ultimate goal here in Widgets. Please let us know if you need further assistance. 
+
+Many thanks, 
+Agent
+
+(Refund Receipt PDF) 
+"
+ts-1015,953948077,8/23/2025,8/23/2025,0.45,0.45,1,1,Subscription - Cancel/Refund: Not needed,Good,very fast and efficient. Hoping our team can adopt Widgets fully.,"Customer: May 23 10:50 
+bot language: en 
+
+chat transcript:BOT: Hi, I'm Widgetsbot. 🤖 I understand you're having problems with a charge. 
+BOT: I can help you, and if I can't find an answer, I'll connect you with our support team. 
+
+USER: I want to follow up a refund request 
+
+BOT: Once we've approved your refund, we'll send the refunded payment to the payment method you used to pay us. It may take up to 20 business days for your bank, credit card, or payment provider to process the refund into your account. 
+BOT: Has it been more than 20 business days since the refund was issued? 
+
+USER: Selected: 2️⃣ No 
+
+BOT: It can take up to 20 business days for your refund to be processed. Please contact your bank, credit card or payment provider to check on the progress of your refund. 
+BOT: Did I answer your question? 
+
+USER: 👎 No 
+
+BOT: Let me know what didn't work:👇 
+
+USER: I want a refund, i forgot to cancel Widgets free trial 
+
+BOT: Thanks for telling me - it'll help me learn and improve. 
+BOT: Would you like me to hand you over to Support? 
+
+USER: Selected: 1️⃣ Yes 
+
+SUMMARY: I want a refund, i forgot to cancel Widgets free trial. 
+
+Agent: May 23 11:18 
+Hello Customer, 
+
+Thanks for getting in touch with us. 
+
+We understand you would like to cancel and request a refund for the charge you incurred for your subscription. We appreciate you for bringing this concern to our attention and we'd be glad to look into this for you. 
+
+We've confirmed that your Widgets account associated with [EMAIL ADDRESS] was charged 40.5 AUD for your monthly Widgets Pro subscription. Your paid plan will renew automatically unless you cancel it before the current billing cycle ends. 
+
+As a goodwill gesture, we've refunded the charge in full and canceled your paid subscription to prevent any future charges. The processing time for your refund depends on your bank. It can take 10 to 20 business days to appear on your account. If you'd like to check the refund status, please reach out to your bank directly. 
+
+It's sad to see you go but we hope to welcome you back to Widgets in the future. If you need any additional assistance, please let us know. 
+
+Many thanks, 
+Agent"
+ts-1016,953948077,10/9/2025,10/10/2025,20.74,5.57,2,2,Subscription - Cancel/Refund: Not needed,Good,Great service!!! :-),"Customer: Aug 08 01:43 
+Dear Support Team, 
+
+You told me to write here again. Previously I wrote from the email address: [EMAIL ADDRESS]. 
+
+In My Account data: 
+
+Name: [CUSTOMER NAME] 
+IBAN: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 
+BIC: ▇▇▇▇▇▇▇▇▇▇▇ 
+
+Thank you. 
+
+Best regards, 
+Customer 
+
+Agent: Aug 08 07:17 
+Hello Customer, 
+
+Thanks for reaching out to us and for using Widgets. I am Agent and I'll be looking after your concern for today. 
+
+I see that you're contacting us about canceling your subscription. Please know that it is not our intention for you to feel this way, but rest assured that we'll get to the bottom of this. 
+
+We’d be happy to assist you with your concern. However, due to security reasons, we don’t recommend sending us your full IBAN number. 
+
+In Widgets, we take the security of your personal or account information seriously. Rest assured that the sensitive information provided has been completely deleted from our database. 
+
+If the subscription you're inquiring about was made through PayPal or a credit card, we recommend trying our Charge Finder Tool to identify what the charge is for. 
+
+We reviewed your account at [EMAIL ADDRESS] and [EMAIL ADDRESS] email address, but we don’t see a subscription associated with this. For us to locate the subscription and provide a solution, please share the Widgets billing details with us, including: 
+
+- A copy of the bill, which can be a Widgets invoice, invoice ID, Google or iTunes receipt or Paypal receipt 
+- Invoice amount 
+- Date of transaction 
+
+For additional guidance, you can visit our page about ways to find and read invoices. 
+
+I want to assure you of my commitment to assist you until we reach a satisfactory resolution. I am looking forward to your response with great anticipation. 
+
+All the best, 
+Agent
+
+Customer: Aug 08 17:54 
+Please look at this email :) 
+
+Agent: Aug 07 03:49
+
+Hi Customer, 
+
+Please, disregard the earlier email that I sent, sorry for the confusion. 
+
+We’d like to inform you that we've canceled the Widgets Pro/Widgets subscription for your account under [EMAIL ADDRESS]. You'll still have access to premium features until the end of your billing period, but it'll no longer renew. 
+
+For future reference, you may also check this help article Canceling or pausing a Widgets plan. 
+
+It's sad to see you go but we hope to welcome you back to Widgets in the future. If you need any additional assistance, please let us know. 
+
+Best regards, 
+Agent
+
+
+
+
+
+Sent from my iPhone 
+
+
+Avatar 
+Furniture in progress: Aug 08 22:27 
+Hello Manda, 
+
+Thank you for getting back to us and using Widgets. 
+
+I'm Belle one of Widgets support team, and I'll be happy to help you with your concern. We know how you feel and the urgency of having this resolved. Widgets priority is to guarantee the peace of mind of its users and provide a quality service. 
+
+We understand that you wish to cancel your subscription. We want you to know that you’re definitely not alone in this as we heard you and rest assured that we are committed to addressing your concerns promptly and finding a solution that meets your needs. 
+
+We genuinely appreciate your patience and proactive efforts in providing us that information. 
+
+Upon checking, your Widgets Pro subscription under the account [EMAIL ADDRESS] is now in Canceling status. You will still have access to Widgets Pro features until Aug 15, 2024. 
+
+I hope we fully address your concern. Should you have any questions or need further clarification please don't hesitate to reach out to our customer support team. We're here to ensure that your experience with us is smooth and transparent. Thank you for your understanding and continued partnership. 
+
+All the best, 
+Belle 
+"
+ts-1017,953948077,6/23/2025,6/28/2025,0.30,0.30,1,1,Subscription - Cancel/Refund: Not needed,Good,,"Customer: Jun 23 20:58 
+Bot language: fr 
+
+chat transcript:Bot: Hi, I'm Widgetsbot. 🤖 I understand that you want to cancel or pause your Widgets Pro package. 
+
+USER: Ask for something else 
+
+BOT: Okay. Use 2-3 short sentences to tell me why you need help. 👇 
+
+USER: Refund 
+
+BOT: I can only process refund requests for drawings and print orders. 
+BOT: For other refund requests, I can refer you to our support team. 
+BOT: What do you want to repay? 
+
+USER: Selected: 3 ️ ※ Other refund request 
+
+BOT: Can you give me more details about your refund request? I will forward your response to our support team. 
+
+USER: Subscription refund 
+
+
+Agent: Jun 23 21:16 
+Hello Customer, 
+
+Thanks for getting in touch with us. 
+
+We know the importance of this for you and we're here to help in sorting this out. 
+
+We've confirmed that your Widgets account associated with [EMAIL ADDRESS] was charged EUR 12.00 for your monthly Widgets Pro subscription renewal. 
+
+As a goodwill gesture, we've refunded the charge in full and canceled your paid subscription to prevent any future charges. The processing time for your refund depends on your bank. It can take 10 to 20 business days to appear on your account. If you'd like to check the refund status, please reach out to your bank directly. 
+
+It's sad to see you go but we hope to welcome you back to Widgets in the future. If you need any additional assistance, please let us know. 
+
+Kind regards, 
+Agent"
+ts-1018,953948077,10/9/2024,10/11/2024,2.02,2.02,1,1,Subscription - Cancel/Refund: Not needed,Good,Really prompt and outstanding friendly Support with Great Expertise.,"Customer: Aug 10 05:40 
+Description: Dear Widgets team, I canceled the Pro subscription on Tuesday, 06.08.2024. Apparently this hadn't gone through even though it was shown to me on the page. That is why the debit has now surprised me very much. I kindly ask you to cancel the subscription, transfer the money back and for your understanding. Thank you & best regards
+Customer
+
+Agent: Aug 10 07:41 
+Hello Customer, 
+
+Thanks for reaching out to Widgets. 
+
+I am Agent and I appreciate you taking the time to raise your concern about the immediate cancelation of your subscription and refund request for the charge received especially since you already processed the cancelation on your end. Let's go ahead and get this sorted out then. 
+
+We've confirmed that your Widgets account associated with [EMAIL ADDRESS] was charged EUR 110.00 for your yearly Widgets Pro subscription renewal. Please be guided that your paid plan will renew automatically unless you cancel it before the current billing cycle ends. 
+
+As a goodwill gesture, we've refunded the charge in full and canceled your paid subscription to prevent any future charges. The processing time for your refund depends on your bank. It can take 10 to 20 business days to appear on your account. If you'd like to check the refund status, please reach out to your bank directly. 
+
+We hope we're able to provide you with excellent service today. Please let us know if you need further assistance. 
+
+Have a great day! 
+
+Best regards, 
+Agent
+"
